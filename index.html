@@ -1,0 +1,17 @@
+<html>
+<head><title>物理演算でn重ふりこもどきを作ってみる</title></head>
+
+<body>
+    N重ふりこ N=8あたりがおすすめかも<br>
+    <form method="GET" action="./index.html">
+        <p id="InputN">N=<input type="text" name="N"></p>
+        <p><input type="submit" value="確定"></p>
+    </form>
+</body>
+
+<script src="matter.js"></script>
+<script src="script.js"></script>
+<script>
+    document.getElementById("InputN").innerHTML='N=<input type="text" value="'+N+'" name="N">';
+</script>
+</html>
