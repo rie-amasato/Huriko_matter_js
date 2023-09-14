@@ -3,4 +3,4 @@
 物理演算のライブラリ、matter.jsを用いたn重振り子。  
 減衰があるのはmatterの仕様かしら？  
   
-https://yumi-amahane.github.io/Huriko_matter_js/  
+https://rie-amasato.github.io/Huriko_matter_js/  
